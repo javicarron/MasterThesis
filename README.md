@@ -12,9 +12,9 @@ As for now, the code is reported as-is and intended only for evaluation purposes
 For any question, please contact us at the current academic email of the author: Javier.Carron-Duque@student.uibk.ac.at
 
 The repository contains the following items:
--Thesis.pdf : text of the thesis in the most recent version.
--Code : folder containing the current code
+- Thesis.pdf : text of the thesis in the most recent version.
+- Code : folder containing the current code
     - {}
--Images : Some of the images used in the Thesis.
--README : this file.
--License : GNU general public licence
+- Images : Some of the images used in the Thesis.
+- README : this file.
+- License : GNU general public licence
