@@ -15,8 +15,11 @@ For any question, please contact us at the current academic email of the author:
 
 The repository contains the following items:
 - Thesis.pdf : text of the thesis in the most recent version.
-- Code : folder containing the current code
-    - {}
+- results.pkl: table with the results of the algorithm on Planck maps, to be loaded with pandas (and pickle).
+- Code : folder containing the current code.
+    - sim_generate: code for the creation of simulated CMB maps.
+    - sim_analyse: code for the analysis of previouly simulated maps.
+    - real_analyse: code for the analysis of real CMB maps.
 - Images : Some of the images used in the Thesis.
 - README : this file.
 - License : GNU general public licence
